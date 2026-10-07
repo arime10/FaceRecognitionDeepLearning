@@ -16,6 +16,12 @@ dataset/
 cropped_face_test.jpg
 gradcam_output.jpg
 
+# Academic document exports & papers
+*.docx
+*.pdf
+*KONFERANS_BILDIRISI*
+export_ieee_paper.py
+
 # IDE & OS files
 .DS_Store
 Thumbs.db
